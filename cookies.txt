@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.webstarts.com	TRUE	/	FALSE	1999999999	PHPSESSID	hmasrl5slsibe54lt33lr7nolp
+www.your-domain.com	TRUE	/	FALSE	1999999999	__tad	1580414533.6292413
+
